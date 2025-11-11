@@ -1,0 +1,9 @@
+# Python 3.11.6
+# Dependencies for capm-fama-french-brazil project
+
+pandas==2.2.2
+numpy==1.26.4
+yfinance==0.2.40
+statsmodels==0.14.2
+plotly==5.22.0
+notebook==7.2.1
