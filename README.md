@@ -139,6 +139,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 * **João Vitor Assalis Pedroso**
     * GitHub: `@JAssalis`
-    * LinkedIn: `[Your LinkedIn]`
+    * LinkedIn: `https://www.linkedin.com/in/joaoassalis/`
 
 *Disclaimer: This project is for educational purposes only. The analysis and results should not be considered investment advice. Past performance does not guarantee future results.*
