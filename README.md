@@ -29,10 +29,12 @@ This project compares the explanatory power of two foundational asset pricing mo
 
 ## Project Structure
 
-├── codigofin2.ipynb # Main analysis notebook (Portuguese comments) 
-├── nefin_factors.csv # Fama-French factors (Requires download) 
-├── requirements.txt # Python dependencies 
-└── README.md # This file
+```text
+├── codigofin2.ipynb     # Main analysis notebook (Portuguese comments) 
+├── nefin_factors.csv    # Fama-French factors (Requires download) 
+├── requirements.txt     # Python dependencies 
+└── README.md            # This file
+```
 
 ## How to Run
 
